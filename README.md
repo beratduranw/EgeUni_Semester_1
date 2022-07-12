@@ -1,3 +1,3 @@
 # EgeUni_Semester_1
 
-Ege üniversitesi algoritma 1 dersi içeriğinde verilen ödevlerin çözümlerini içerir.
+It includes the solutions of homework in the content of Ege University Algorithm 1 course.
